@@ -28,6 +28,7 @@ public class AddComplaintServlet extends HttpServlet {
             response.sendRedirect("/views/login.jsp");
         }
     }
+    
 
     // Handle POST request to submit a new complaint
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
