@@ -4,6 +4,7 @@
 
 The **Unit Converter Web App** is a web-based application that allows users to convert various units such as temperature, length, weight, and more. The app is built using Java, Servlets, JSP, and MySQL, following the MVC architecture. It provides a clean, user-friendly interface for seamless conversions, ensuring a great user experience.
 
+
 This project is part of the **Unit Converter** challenge provided by [roadmap.sh](https://roadmap.sh/projects/unit-converter).
 
 ## Features
@@ -74,7 +75,7 @@ This project follows the development roadmap outlined by [roadmap.sh](https://ro
 - **Conversion Rate API**: Integrate an external API to get live conversion rates (for temperature, currency, etc.).
 - **Unit Conversion History**: Store and display a history of previous conversions.
 
-For more details, check out the roadmap for the Unit Converter challenge at [roadmap.sh](https://roadmap.sh/projects/unit-converter).
+For more details, check out the roadmap for the Unit Converter challenge at [roadmap.sh]([https://roadmap.sh/projects/unit-converter](https://roadmap.sh/projects/unit-converter/solutions?u=658efb1fae22c12523f4de17)).
 
 ## License
 
