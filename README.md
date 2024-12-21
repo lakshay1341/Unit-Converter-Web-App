@@ -23,8 +23,7 @@ UnitConverter/
 │       └── webapp/
 │           ├── WEB-INF/
 │           │   ├── lib/
-│           │   ├── classes/
-│           │   └── web.xml (not required if using annotations)
+│           │   └── web.xml 
 │           ├── index.jsp
 │           ├── convert.jsp
 │           ├── error.jsp
